@@ -80,7 +80,7 @@ java -jar WorkflowOrchestrator-1.0-SNAPSHOT-jar-with-dependencies.jar
 #SBATCH --job-name=test
 #SBATCH --time=02:00:00
 #SBATCH --mail-type=FAIL
-#SBATCH --mail-user=robert.allaway@sagebionetworks.org
+#SBATCH --mail-user=thomas.yu@sagebionetworks.org
 #SBATCH --output=test.txt
 #SBATCH --error=test_errors.txt
 #SBATCH --mem=8G
