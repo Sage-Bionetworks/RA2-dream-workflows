@@ -156,7 +156,7 @@ steps:
       - id: goldstandard
         default:
           class: File
-          location: "/data/project/RA2_DREAM/post_challenge_validation_adjusted_hongyang_hongyang/test1.csv"
+          location: "/data/project/RA2_DREAM/post_challenge_validation_adjusted_hongyang/test1.csv"
     out:
       - id: results
       - id: status
